@@ -52,11 +52,11 @@
 ☐ Just press 'WASD'
 
 ---{Grind}---
-☐ Nothing to grind
-☐ Only if you care about leaderboards/ranks
-☐ Average grind level
 ☐ Too much grind
-☐ You'll need a second live for grinding
+☐ Average grind level
+☐ Only if you care about leaderboards/ranks
+☐ Little grind
+☐ No grind
 
 ---{Story}---
 ☐ It'll replace your life
@@ -71,7 +71,7 @@
 ☐ Short
 ☐ Average
 ☐ Long
-☐ I don't know, took too long to complete
+☐ I don't know, took too long to complete.
 
 ---{Price}---
 ☐ It’s free!
