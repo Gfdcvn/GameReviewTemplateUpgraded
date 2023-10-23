@@ -1,45 +1,55 @@
 ---{Graphics}---
-☐ Potato
+☐ 1982 Graphics
 ☐ Really bad
 ☐ Bad
-☐ OK
+☐ Decent
 ☐ Good
-☐ Beautiful
+☐ Amazing
 ☐ Masterpiece
 
----{Gameplay}---
-☐ Very good
-☐ Good
-☐ Okay
-☐ Not good
-☐ Completely not worth it
-
----{Audio}---
-☐ Eargasm
-☐ Very good
-☐ Good
+---{Realism}---
+☐ Very Poor
+☐ Poor
 ☐ Bad
-☐ Earrape
+☐ Decent
+☐ Realistic
+☐ Looks like real life
+☐ You forgot you are playing a game
+
+---{Gameplay}---
+☐ Really Bad
+☐ Just watch a movie instead
+☐ Okay
+☐ Good
+☐ Amazing
+
+---{Audio and Sounds}---
+☐ I'm now deaf
+☐ Bad
+☐ Good
+☐ Very Good
+☐ Amazing
 
 ---{Audience}---
+☐ Babies
 ☐ Kids
-☐ Everyone
-☐ Casual players
-☐ Pro players
+☐ Teens
+☐ Adults
 
 ---{PC Requirements}---
-☐ Anything can run this
+☐ Check if your pc can run paint
+☐ Potato PC
 ☐ Decent
-☐ Requires really good computer
-☐ Unreasonably demanding
+☐ Fast
+☐ Gaming PC
 
 ---{Difficulity}---
-☐ Just press 'A'
-☐ Easy
-☐ Significant brain usage
-☐ Easy to learn / Hard to master
+☐ You must be a genius to play it
 ☐ Difficult
-☐ Dark Souls
+☐ Decent
+☐ Easy to learn, hard to master
+☐ Easy
+☐ Just press 'WASD'
 
 ---{Grind}---
 ☐ Nothing to grind
